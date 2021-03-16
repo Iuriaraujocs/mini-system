@@ -1,0 +1,7 @@
+/node_modules
+/vendor
+.vscode
+.idea
+composer.lock
+/src/mvc/views/tmp/cache
+/src/mvc/views/tmp/compile

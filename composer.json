@@ -1,0 +1,20 @@
+{
+    "name": "iuriaraujocs/mini-system",
+    "description": "mini framework funcional para desenvolvimento web",
+    "authors": [
+        {
+            "name": "Iuri Cardoso Araujo",
+            "email": "iuriaraujoc.eng@gmail.com"
+        }
+    ],
+    "require": {
+        "monolog/monolog": "1.0.*",
+        "josegonzalez/dotenv": "3.2.*",
+        "smarty/smarty": "~3.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "system\\": "src"
+        }
+    }
+}
