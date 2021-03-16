@@ -8,6 +8,7 @@
         }
     ],
     "require": {
+        "php": ">=7.3",
         "monolog/monolog": "1.0.*",
         "josegonzalez/dotenv": "3.2.*",
         "smarty/smarty": "~3.1"
