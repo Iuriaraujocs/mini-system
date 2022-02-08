@@ -9,6 +9,12 @@ programmer development, mainly in the beggining for learning purposes and it was
 
 Many classes I created to understand how works, how to do and was designed in order to obtain flexibility and modularized systems easily.
 
+An example of an implementation using this mini framework is:
+
+<h1 align="center">
+    <a href="https://github.com/Iuriaraujocs/products-categories-manager">🔗 Products/Categories E-commerce Manager</a>
+</h1>
+
 
 ### The main feature is:
 
